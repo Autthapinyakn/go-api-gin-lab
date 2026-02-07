@@ -1,0 +1,7 @@
+POST /students
+{
+  "id": "66090001",
+  "name": "John Doe",
+  "major": "Computer Science",
+  "gpa": 3.8
+}
