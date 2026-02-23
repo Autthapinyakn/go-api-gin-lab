@@ -1,7 +1,9 @@
-POST /students
+POST http://localhost:8080/students
+Content-Type: application/json
+
 {
-  "id": "66090001",
-  "name": "John Doe",
-  "major": "Computer Science",
-  "gpa": 3.8
+  "id": "6609650749",
+  "name": "Autthapinya",
+  "major": "comsci",
+  "gpa": 2.5
 }
